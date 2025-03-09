@@ -1,1 +1,0 @@
-# hos-ital-management-system
